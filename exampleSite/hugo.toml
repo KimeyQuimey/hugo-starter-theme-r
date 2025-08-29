@@ -1,4 +1,5 @@
 baseURL = "/"
+languageCode = "es-AR"
 title = "My New Hugo Site"
 theme = "hugo-starter-theme-r"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
